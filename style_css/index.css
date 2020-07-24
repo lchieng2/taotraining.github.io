@@ -1,0 +1,239 @@
+p {
+    font-family: din-2014, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px 20%;
+    color: rgb(150,150,150);
+}
+
+.green {
+    color: #4E822C;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.gold {
+    color: #D5AF39;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p strong {
+    color: #D5AF39;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p a {
+    color: #D5AF39;
+    font-size: 25px;
+    font-family: din-2014, sans-serif;
+}
+
+
+a strong {
+    color: #D5AF39;
+}
+
+h6 {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: rgb(150,150,150);
+}
+
+.right {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+}
+
+nav li a {
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: rgb(150,150,150);
+    text-decoration: none;
+    background-color: none;
+}
+
+nav li a:hover {
+    color: black;
+}
+
+h1 {
+    font-family: din-2014, sans-serif;
+    font-size: 53px;
+    text-align: center;
+    margin: 25px 0px;
+    color: #D5AF39;
+}
+
+#bootstrap-overrides-h1 {
+    font-family: din-2014, sans-serif;
+    font-size: 53px;
+    text-align: center;
+    margin: 25px 0px;
+    color: #D5AF39;
+    font-weight: bold;
+}
+
+.title {
+    font-family: din-2014, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 25px 0px;
+    color: rgb(150, 150, 150);
+}
+
+.small {
+    font-size: 17px;
+    font-family: din-2014, sans-serif;
+    text-align: center;
+    margin: 25px 35%;
+    color: rgb(150, 150, 150);
+}
+
+.captionTitle {
+    color: #D5AF39;
+    font-family: din-2014, sans-serif;
+    font-size: 25px;
+}
+
+figcaption {
+    display: block;
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: white;
+    width: 45%;
+    padding: 20px;
+    position: relative;
+}
+
+#bootstrap-overrides-figcaption {
+    display: block;
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: white;
+    position: relative;
+    min-width: 182px;
+}
+
+.extra1 {
+    display: block;
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: white;
+    width: 45%;
+    padding: 20px;
+    position: relative;
+    top: 72.5%;
+    left: 49%;
+}
+
+.extra {
+    display: block;
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: white;
+    width: 45%;
+    padding: 20px;
+    position: relative;
+    top: 63%;
+    left: 49%;
+}
+
+.image1 {
+    background-image: url("../Photos/CampPic.JPG");
+    background-size: cover;
+    background-position: center;
+    width: 1024px;
+    height: 768px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.image2 {
+    background-image: url("../Photos/Bench.PNG");
+    background-size: cover;
+    background-position: center;
+    width: 1024px;
+    height: 576px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.centerText {
+    text-align: center;
+}
+.testimage1 {
+    display: inline-block;
+    padding: 30px 50px 0px 50px;
+    width: 210px;
+    height: 260px;
+}
+
+.teamimage1 {
+    width: 210px;
+    height: 260px;
+}
+
+.t1 {
+    display: inline-block;
+
+    font-size: 15px;
+    font-family: din-2014, sans-serif;
+    color: grey;
+    width: 210px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.testing {
+    margin-top: 16px;
+}
+
+.p-override{
+    font-family: din-2014, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(150,150,150);
+    margin: 5px 0px 50px 0px;
+    width: 195px;
+}
